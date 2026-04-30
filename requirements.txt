@@ -5,3 +5,4 @@ openpyxl>=3.0.10
 scikit-learn>=1.2.0
 numpy>=1.23.0
 matplotlib>=3.8.4
+statsmodels>=0.14.2
